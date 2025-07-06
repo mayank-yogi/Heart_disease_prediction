@@ -1,2 +1,8 @@
-# Heart_disease_prediction
-A model trained to predict heart disease chances based on data entries filled by user 
+# 🫀 Heart Disease Prediction using Machine Learning
+
+This project aims to predict the 10-year risk of heart disease based on patient health data from the Framingham Heart Study. Using modern machine learning techniques, we achieve high accuracy in binary classification to support preventive healthcare.
+
+---
+
+
+
