@@ -4,7 +4,7 @@ This project uses the Framingham Heart Study dataset to predict the risk of hear
 
 ## 📁 Files Included
 
-- `heart_disease.ipynb`: Jupyter notebook with all the steps from data cleaning, modeling, evaluation, and prediction based on user input.
+- `heart_disease_prediction.ipynb`: Jupyter notebook with all the steps from data cleaning, modeling, evaluation, and prediction based on user input.
 - `framingham.csv`: The dataset used for training and testing.
 
 ## 📈 Model Details
